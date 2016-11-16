@@ -15,5 +15,6 @@
     		"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
-	"key1" : "value1"
+	"key1": "value1",
+	"key2": "value2"
 }
